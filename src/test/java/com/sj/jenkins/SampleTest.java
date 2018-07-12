@@ -29,5 +29,13 @@ public class SampleTest {
 		
 		assertTrue(a+b==4);
 	}
+	
+	@Test
+	public void sample4(){
+		int a=2;
+		int b=5;
+		
+		assertTrue(a+b==7);
+	}
 
 }
