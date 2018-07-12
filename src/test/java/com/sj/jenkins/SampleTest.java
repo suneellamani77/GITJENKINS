@@ -33,7 +33,7 @@ public class SampleTest {
 	@Test
 	public void sample4(){
 		int a=2;
-		int b=5;
+		int b=9;
 		
 		assertTrue(a+b==7);
 	}
